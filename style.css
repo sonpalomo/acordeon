@@ -12,6 +12,7 @@ body{
     border-radius: 2rem;
     background-color:rgb(254, 242, 244);
     padding:.5em;
+    box-shadow: 1px 1px 10px rgb(228, 228, 228);
 }
 .acordeon .bloque{
     border-radius: 2rem;
@@ -25,13 +26,14 @@ body{
     margin: 0 0 1em;
     padding: 1em;
     transition: all .5s ease;
+    box-shadow: 1px 1px 1px rgb(241, 241, 241);
     
 }
 
 .h2:hover{
     background-color:rgb(253, 217, 223);
     scale: 0.98;
-    box-shadow: 1px 1px 10px rgb(250, 237, 239);
+    box-shadow: 1px 1px 5px rgb(248, 248, 248);
 }
 
 .acordeon .contenido{
